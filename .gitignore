@@ -13,3 +13,11 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+### /Users/tac/.gitignore-boilerplates/Global/ensime.gitignore
+
+# Ensime specific
+.ensime
+.ensime_cache/
+.ensime_lucene/
+
+
